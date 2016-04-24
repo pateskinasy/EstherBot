@@ -1,6 +1,6 @@
 {
     "HELLO": "Hey, I am PateBot! Pat Eskinasy created me to chat with peeps and make them smile. So... how are you today?",
-    "Hi": "Hi, I am PateBot! Pat Eskinasy created me to chat with peeps and make them smile. So... how are you today?",
+    "HI": "Hi, I am PateBot! Pat Eskinasy created me to chat with peeps and make them smile. So... how are you today?",
     "TWITTER": "Let's tweet @ Pat so she knows you're chatting with her bot. Here's a tweet that's ready to go: http://bit.ly/patebot_tweet",
     "I LOVE YOU": "Awh, shucks! I love you too!",
     "CONNECT ME": "",
@@ -13,5 +13,5 @@
     "THAT WAS BAD": "What do you call a deer with no eyes and no legs? Still no eyed-deer... OK, I'll stop.",
     "DANCE": "Oh, I got dance moves. Check this out: http://gph.is/15zPVjf",
     "BYE": "Nice chatting with you. Hit me up again some time. Hopefully by then I'll have learned some new things to talk about.",
-    "Good bye": "Nice chatting with you. Hit me up again some time. Hopefully by then I'll have learned some new things to talk about."
+    "GOOD BYE": "Nice chatting with you. Hit me up again some time. Hopefully by then I'll have learned some new things to talk about."
 }
