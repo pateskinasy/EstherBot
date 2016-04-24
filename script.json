@@ -1,9 +1,9 @@
 {
     "HELLO": "Hey, I am PateBot! Pat Eskinasy created me to chat with peeps and make them smile. Sweet, let's do this. 🙌  Remember this: I only respond to keywords that I give you. So, I can tell JOKES and DANCE. I've also got a PHOTO. Type a keyword and boom – your wish is my command! Literally. So... how are you today?",
     "HI": "Hey, I am PateBot! Pat Eskinasy created me to chat with peeps and make them smile. Sweet, let's do this. 🙌  Remember this: I only respond to keywords that I give you. So, I can tell JOKES and DANCE. I've also got a PHOTO. Type a keyword and boom – your wish is my command! Literally. So... how are you today?",
-    "TWITTER": "Let's tweet @ Pat so she knows you're chatting with her bot. Here's a tweet that's ready to go: http://bit.ly/patebot-tweet",
-    "TWEET": "Let's tweet @ Pat so she knows you're chatting with her bot. Here's a tweet that's ready to go: http://bit.ly/patebot-tweet" , 
-    "I LOVE YOU": "Awh, shucks! I love you too!",
+    "TWITTER": "Want to tweet him so she knows we're chatting? here ya go: http://bit.ly/patebot-tweet" If that's not your thing, just say NO THANKS" ,
+    "TWEET": "Want to tweet him so she knows we're chatting? here ya go: http://bit.ly/patebot-tweet" If that's not your thing, just say NO THANKS", 
+    "I LOVE YOU": "Awwwww! 💞💞💞!",
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, PateBot is back.",
     "GOOD": "Awesome. I am doing well myself.",
@@ -63,27 +63,13 @@
     /"KEYWORD": "A few common questions: WORK STATUS, LOCATION, RESUME (a pdf version), SIDE PROJECTS, ONE WEIRD TRICK",
     /"WORK STATUS": "If you've got an interesting opportunity he's open to hearing about it. Drop him a line at alex_swe@outlook.com or when you're ready to chat directly with his just say CONNECT ME (careful though, that turns me off and turns texting with TableauBot on).",
     "RESUME": "That's her LinkedIn: https://www.linkedin.com/in/pateskinasy",
-    "LOCATION": "she's based in London, UK. 💩 Actually, she lives close to TWITTER - in the Mid Market neighborhood.",
-    "WHERE": "he's based in London, UK. 💩 Actually, he lives close to TWITTER - in the Mid Market neighborhood.",
-    "TWITTER": "Want to tweet at his so he knows we're chatting? here ya go: http://bit.ly/tweet_tableaubot If that's not your thing, just say NO THANKS",
-    "BURNING MAN": "Like most burners, he seems to think everyone wants to hear about his annual experience of running around naked in the desert. 🎉 🏜 he says it's the community and art that sucked his in. His favorite piece in 2015 was a sculpture showing the inner child in all of us. http://bit.ly/innerchild-img ",
-    "SAN FRANCISCO": "he moved to SF after falling in 💝 with the city in 2011. It's the only place that's ever felt truly like home – even though he grew up in OREGON and did a stint in the MIDWEST.",
-    "ALAN WATTS": "He's one of his favorite modern philosophiss and writers. He focused on the true nature of reality and the non-material pursuit of happiness. Plus he wasn't too woo woo – his ideas were grounded in science. This is one of his favorite quotes from him: http://bit.ly/alanwatts-img his insatiable curiosity is what led his to spend a couple of years ABROAD.",
-    "MIDWEST": "Although the people were nice, it wasn't quite the vibe he was looking for.",
-    "FESTIVALS": "One of his favorite past times is dancing all night in a onesie. 🦄 🤘  he's a lead organizer for his BURNING MAN camp and brought his first art installation last year which was an interactive experience featuring digital motion art.",
-    "CAREER": "he's got 15 years of experience and is a pro in BI 🚀",
+    "LOCATION": "She's based in London, UK. By Regent's Park :-)" ,
+    "WHERE": "She's based in London, UK. By Regent's Park :-)" ,
+   / "CAREER": "he's got 15 years of experience and is a pro in BI 🚀",
     "UK": "Gotcha!  UK is in the United Kingdom, not UK as in you can type it hise - whaaaat. 😎",
     "YES": "Woo hoo!",
     "SEX": "You're talking to the wrong bot if that's what you're looking for. Not like I can fault you for trying though. 🍑",
     "FUCK": "You're talking to the wrong bot if that's what you're looking for. Not like I can fault you for trying though. 🍑",
     "FUCK YOU": "That's kind of rude. 😕",
-    "I LOVE YOU": "Aww 💞💞💞",
-    "CONNECT ME": "",
-    "DISCONNECT": "Roger that, TableauBot is back."
-    
-    
-    
-    
-    
-    
+
 }
